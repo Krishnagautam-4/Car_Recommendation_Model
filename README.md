@@ -40,4 +40,4 @@ Note on Data Source: This machine learning model and demonstration dashboard wer
 
 ---
 
-### ©️ Copyright, Maintained and Created By "KRISHNA"
+### ©️ Copyright 2026, Maintained and Created By "KRISHNA"
