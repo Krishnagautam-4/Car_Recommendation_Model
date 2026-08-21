@@ -40,4 +40,9 @@ Note on Data Source: This machine learning model and demonstration dashboard wer
 
 ---
 
+### 🎥 Working Video at My Linkedin Profile 👇🏻
+https://www.linkedin.com/posts/krishna-gautam-562198326_machinelearning-python-streamlit-ugcPost-7496526673962496000-ykdM/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFJAvhoBPNDTRDLup_mVzpv0FBujo7kCynY&utm_campaign=copy_link
+
+---
+
 ### ©️ Copyright 2026, Maintained and Created By "KRISHNA"
